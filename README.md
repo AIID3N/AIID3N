@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jhon Mario Aza</h1>
 <h3 align="center">Video game developer, Front end, music producer, from Bogotá, looking to create experiences for players that bring that immersion and fun of each game and looking for everything to look beautiful</h3>
-<img src="https://64.media.tumblr.com/2ad446ec1cd01902f69830fed5fc824b/39672ded30b965ca-d6/s400x600/c8fabe7c1946b34659781c5acd3a175e9c46bfe4.gifv" align="right">
+<br>
+<img src="https://64.media.tumblr.com/ffea71943a74bcd0cd7f202a0e706a63/8e6483f9d2e9f4c7-fd/s400x600/c9e0dd88c427936e42135b86fd7855f5253a399f.gifv" align="right">
+
 
 
 -  🗺 I'm from Colombia, Bogota D.C.
