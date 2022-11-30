@@ -13,7 +13,7 @@
 - 🦾 Looking to colaborate in Video Game Projects.
 - 💬 Ask me about **Boostrap, Unity, Ableton**
 - 🔭 Reach me on [LinkedIn](https://www.linkedin.com/in/jhonmarioazaocampo/)
-- 👻 I like long **I like long talks and meeting different people**
+- 👻 I like **Long talks and meeting different people**
 - ⚡ Fun fact **I like to enjoy video games**
 
 <h3 align="left">Connect with me:</h3>
