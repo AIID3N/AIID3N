@@ -12,7 +12,7 @@
 - 👾 Interested in learning about the creation and the fun of videogames.
 - 🦾 Looking to colaborate in Video Game Projects.
 - 💬 Ask me about **Boostrap, Unity, Ableton**
-- 🔭 Reach me on [LinkedIn](https://www.linkedin.com/in/jhonmarioazaocampo/)
+- 🔭 Reach me on [LinkedIn](https://www.linkedin.com/in/jhonmarioazaocampo/) [SoundCloud](https://soundcloud.com/aiid3n)
 - 👻 I like **Long talks and meeting different people**
 - ⚡ Fun fact **I like to enjoy video games**
 
