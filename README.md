@@ -1,6 +1,6 @@
-<img src="https://at.tumblr.com/aiid3n/702317722194903040/027sv9cuedbt" align="center">
+<img src="https://64.media.tumblr.com/2035350151a5a5f08ab9e74e3f5e9ca0/cdbd2230fc9f130e-c7/s1280x1920/cd765b3dfee13ed335241d30c1f69899f4398ca3.gifv" align="center">
 <br>
-<h1 align="center">Hi 👋, I'm Jhon Mario Aza</h1>
+<h1 align="center">Hi 👋
 <h3 align="center">Video game developer, Front end, music producer, from Bogotá, looking to create experiences for players that bring that immersion and fun of each game and looking for everything to look beautiful</h3>
 <br>
 <img src="https://64.media.tumblr.com/ffea71943a74bcd0cd7f202a0e706a63/8e6483f9d2e9f4c7-fd/s400x600/c9e0dd88c427936e42135b86fd7855f5253a399f.gifv" align="right">
