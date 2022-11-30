@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhon Mario Aza</h1>
 <h3 align="center">Video game developer, Front end, music producer, from Bogotá, looking to create experiences for players that bring that immersion and fun of each game and looking for everything to look beautiful</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X6aDDzm9Kv1YsvluTU/giphy.gif">
+<img src="https://64.media.tumblr.com/2ad446ec1cd01902f69830fed5fc824b/39672ded30b965ca-d6/s400x600/c8fabe7c1946b34659781c5acd3a175e9c46bfe4.gifv" align="right">
+
 
 -  🗺 I'm from Colombia, Bogota D.C.
 - 🌱 I’m currently learning **Unity, Level Design, Software Development**
@@ -14,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aiid33n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiid33n" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhon mario aza ocampo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon mario aza ocampo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhonmarioazaocampo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon mario aza ocampo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
