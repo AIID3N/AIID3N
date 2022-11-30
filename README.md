@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhon Mario Aza</h1>
 <h3 align="center">Video game developer, Front end, music producer, from Bogotá, looking to create experiences for players that bring that immersion and fun of each game and looking for everything to look beautiful</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/es/view/doom-pain-elemental-pain-elemental-eternal-gif-15693009">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/es/view/doom-pain-elemental-pain-elemental-eternal-gif-15693009](https://tenor.com/es/view/doom-eternal-archvile-gif-19878395)">
 
 -  🗺 I'm from Colombia, Bogota D.C.
 - 🌱 I’m currently learning **Unity, Level Design, Software Development**
