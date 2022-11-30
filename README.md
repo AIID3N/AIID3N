@@ -1,3 +1,5 @@
+<img src="https://at.tumblr.com/aiid3n/702317722194903040/027sv9cuedbt" align="center">
+<br>
 <h1 align="center">Hi 👋, I'm Jhon Mario Aza</h1>
 <h3 align="center">Video game developer, Front end, music producer, from Bogotá, looking to create experiences for players that bring that immersion and fun of each game and looking for everything to look beautiful</h3>
 <br>
